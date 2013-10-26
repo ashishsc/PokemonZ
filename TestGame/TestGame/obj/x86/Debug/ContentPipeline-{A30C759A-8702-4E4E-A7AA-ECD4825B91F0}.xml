@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>stars.png</Source>
+      <Name>stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\stars.xnb</Output>
+      <Time>2012-12-29T15:24:23.7506402-08:00</Time>
+    </Item>
+    <Item>
+      <Source>circle.png</Source>
+      <Name>circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\circle.xnb</Output>
+      <Time>2012-12-29T17:32:25.941283-08:00</Time>
+    </Item>
+    <Item>
+      <Source>diamond.png</Source>
+      <Name>diamond</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\diamond.xnb</Output>
+      <Time>2012-12-29T17:32:25.9462891-08:00</Time>
+    </Item>
+    <Item>
+      <Source>star.png</Source>
+      <Name>star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\star.xnb</Output>
+      <Time>2012-12-29T17:32:25.9432849-08:00</Time>
+    </Item>
+    <Item>
+      <Source>flamethrower-particle.png</Source>
+      <Name>flamethrower-particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\flamethrower-particle.xnb</Output>
+      <Time>2012-12-30T02:15:56.0605908-08:00</Time>
+    </Item>
+    <Item>
+      <Source>rain-particle.png</Source>
+      <Name>rain-particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\rain-particle.xnb</Output>
+      <Time>2012-12-30T02:15:56.0625923-08:00</Time>
+    </Item>
+    <Item>
+      <Source>watergun-particle.png</Source>
+      <Name>watergun-particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\watergun-particle.xnb</Output>
+      <Time>2012-12-30T02:15:56.0645937-08:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy.png</Source>
+      <Name>enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2012-12-30T03:21:42.8286042-08:00</Time>
+    </Item>
+    <Item>
+      <Source>background.jpg</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2012-12-30T05:13:26.4189143-08:00</Time>
+    </Item>
+    <Item>
+      <Source>platform.png</Source>
+      <Name>platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\platform.xnb</Output>
+      <Time>2012-12-30T08:26:58.5123823-08:00</Time>
+    </Item>
+    <Item>
+      <Source>brock2.png</Source>
+      <Name>brock2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\brock2.xnb</Output>
+      <Time>2012-12-30T08:41:49.2388661-08:00</Time>
+    </Item>
+    <Item>
+      <Source>brock.png</Source>
+      <Name>brock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\brock.xnb</Output>
+      <Time>2012-12-30T09:02:03.6779935-08:00</Time>
+    </Item>
+    <Item>
+      <Source>brockfinal.png</Source>
+      <Name>brockfinal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\brockfinal.xnb</Output>
+      <Time>2012-12-30T09:10:17.441462-08:00</Time>
+    </Item>
+    <Item>
+      <Source>jigglypuff.png</Source>
+      <Name>jigglypuff</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\jigglypuff.xnb</Output>
+      <Time>2012-12-30T09:19:03.2519875-08:00</Time>
+    </Item>
+    <Item>
+      <Source>aguman.png</Source>
+      <Name>aguman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\aguman.xnb</Output>
+      <Time>2012-12-30T09:37:18.3484698-08:00</Time>
+    </Item>
+    <Item>
+      <Source>pikachu.png</Source>
+      <Name>pikachu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\pikachu.xnb</Output>
+      <Time>2012-12-30T09:37:39.8487812-08:00</Time>
+    </Item>
+    <Item>
+      <Source>vulpix.png</Source>
+      <Name>vulpix</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\vulpix.xnb</Output>
+      <Time>2012-12-30T09:39:03.6704438-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ground.png</Source>
+      <Name>ground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\ground.xnb</Output>
+      <Time>2012-12-30T09:34:04.0184189-08:00</Time>
+    </Item>
+    <Item>
+      <Source>dialogueLC.spritefont</Source>
+      <Name>dialogueLC</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\dialogueLC.xnb</Output>
+      <Time>2012-12-30T13:52:32.6591612-08:00</Time>
+    </Item>
+    <Item>
+      <Source>ZombieTheme.mp3</Source>
+      <Name>ZombieTheme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\ZombieTheme.xnb</Output>
+      <Extra>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\ZombieTheme.wma</Extra>
+      <Time>2012-12-30T09:22:37.3383213-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A30C759A-8702-4E4E-A7AA-ECD4825B91F0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-12-29T14:40:57.0122715-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

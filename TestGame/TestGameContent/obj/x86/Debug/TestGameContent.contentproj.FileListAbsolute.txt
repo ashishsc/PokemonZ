@@ -1,0 +1,2 @@
+C:\Users\Ngoc\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGameContent\obj\x86\Debug\TestGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\shado_000\Documents\Visual Studio 2010\Projects\TestGame\TestGame\TestGameContent\obj\x86\Debug\TestGameContent.contentprojResolveAssemblyReference.cache
